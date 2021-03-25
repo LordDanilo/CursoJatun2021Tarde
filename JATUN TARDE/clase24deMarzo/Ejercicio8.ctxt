@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=letra
+comment0.target=char\ devolverSiguiente(char)
+comment1.params=letra
+comment1.target=int\ devolverSiguienteNumeral(char)
+numComments=2
