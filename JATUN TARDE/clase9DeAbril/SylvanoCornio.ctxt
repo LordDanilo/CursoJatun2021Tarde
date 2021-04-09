@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SylvanoCornio()
+comment1.params=
+comment1.target=java.lang.String\ encender()
+comment2.params=
+comment2.target=java.lang.String\ apagar()
+comment3.params=
+comment3.target=java.lang.String\ crearReflejoLagrima()
+comment4.params=cantidad
+comment4.target=java.lang.String\ agregarSavia(int)
+numComments=5

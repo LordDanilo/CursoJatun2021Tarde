@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nombreUsuario
+comment0.target=UnicornioBot(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ saludar()
+comment2.params=valor
+comment2.target=void\ setNombreUsuario(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombreUsuario()
+numComments=4

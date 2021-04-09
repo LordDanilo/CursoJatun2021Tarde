@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=valorColor\ valorNombre
+comment0.target=Unicornio(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Unicornio\r\n
+comment1.params=
+comment1.target=java.lang.String\ saludar()
+numComments=2
