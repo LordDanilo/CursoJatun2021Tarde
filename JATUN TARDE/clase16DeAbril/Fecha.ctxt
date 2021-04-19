@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=dia\ mes\ year
+comment0.target=Fecha(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getDia()
+comment2.params=
+comment2.target=int\ getMes()
+comment3.params=
+comment3.target=int\ getYear()
+numComments=4

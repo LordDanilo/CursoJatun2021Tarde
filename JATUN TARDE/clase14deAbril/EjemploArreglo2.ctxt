@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=valorArr
+comment0.target=EjemploArreglo2(int[])
+comment1.params=
+comment1.target=int[]\ crearArray()
+comment2.params=
+comment2.target=void\ modificarDato()
+comment3.params=
+comment3.target=int\ obtenerDato()
+numComments=4
