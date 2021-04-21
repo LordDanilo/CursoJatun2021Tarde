@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=tam
+comment0.target=Taberna(int)
+comment1.params=nuevo
+comment1.target=java.lang.String\ almacenarDream(Dream)
+comment2.params=pos
+comment2.target=java.lang.String\ eliminarDream(int)
+comment3.params=
+comment3.target=void\ buscarPosicionLibre()
+comment4.params=
+comment4.target=java.lang.String\ generarReporte()
+numComments=5
