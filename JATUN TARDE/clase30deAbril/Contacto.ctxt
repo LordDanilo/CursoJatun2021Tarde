@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=valorNombre\ valorEdad\ valorCelular
+comment0.target=Contacto(java.lang.String,\ int,\ int)
+comment1.params=amigo
+comment1.target=void\ agregarAmigo(Contacto)
+comment2.params=numeroBuscado
+comment2.target=Contacto\ buscarPorNumero(int)
+comment3.params=
+comment3.target=int\ getCelular()
+numComments=4
